@@ -1,5 +1,6 @@
 # Cho-Hyeon-Min
 
+```c
 #pragma warning(disable:4996)
 #include <conio.h>             
 #include <time.h>
@@ -101,3 +102,4 @@ void ErrorHandling(char *message)
 	fputc('\n', stderr);
 	exit(1);
 }
+```
